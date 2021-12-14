@@ -3,7 +3,7 @@ Uses an augmented CFG grammar to process natural language questions into SQL que
 
 Builds a semantic parsing system to convert English queries to SQL queries, so that by consulting a database the model will be able to answer those questions. Implements both a rule-based approach and an end-to-end sequence-to-sequence (seq2seq) approach. 
 
-Goals \n
+Goals 
 
 * Build a semantic parsing algorithm to convert text to SQL queries based on syntactic parse trees.
 
